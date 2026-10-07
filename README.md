@@ -7,5 +7,5 @@
 ## la segunda terminal hace "npm run dev" dentro de la carpeta front
 # recuerda hacerte y configurar tu .env guiandote del .env.example
 
-# back en utilizado:
+# backend utilizado:
 ## https://github.com/Tasitar/trabajo-practico-integrador-1.git
