@@ -1,2 +1,11 @@
 # Trabajo practico integrador 1
 ## Alumno: Vallejos Ignacio Alejandro primer año TLP
+
+# Levantar el proyecto
+## descargar las dependencuas con npm install dentro de la carpeta front y en la raiz del proyecto para el backend
+## abrir 2 terminales uno hace "npm run dev" en la raiz para prender el backend
+## la segunda terminal hace "npm run dev" dentro de la carpeta front
+# recuerda hacerte y configurar tu .env guiandote del .env.example
+
+# back en utilizado:
+## https://github.com/Tasitar/trabajo-practico-integrador-1.git
